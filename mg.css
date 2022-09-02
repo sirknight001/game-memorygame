@@ -1,0 +1,30 @@
+body {
+    background: linear-gradient(to right,rgba(116, 20, 160, 0.705),rgba(247, 9, 215, 0.795),rgba(89, 233, 22, 0.575));
+}
+
+#grid {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    font-size: 80px;
+    font-family: cursive;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+    font-family: cursive;
+    text-align: center;
+}
